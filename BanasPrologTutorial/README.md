@@ -1,0 +1,2 @@
+# PrologStudy
+Basic prolog code
